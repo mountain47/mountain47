@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there 👋, I'm Bablu Sahu</h1>
+<h1 align="center">Hi there 👋, I'm web dev</h1>
 <h3 align="center">I am a self taught Full Stack Web Developer who loves to build crazy web stuff.</h3>
 <br></br>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DSA, Web Development, React.js, Next.js, Python**
 
-- 📫 How to reach me **Bablu.r.sahu@gmail.com**
+<!-- - 📫 How to reach me **Bablu.r.sahu@gmail.com** -->
 
   <br></br>
 
